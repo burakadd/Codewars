@@ -1,3 +1,6 @@
+
+
+
 def format_duration(seconds):
     if not seconds:
         return 'now'
